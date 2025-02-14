@@ -1,4 +1,3 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18190571&assignment_repo_type=AssignmentRepo)
 # **Universidad Autónoma de Chihuahua**
 ## **Facultad de Ingeniería**
 ## Ingeniería en Ciencias de la Computación
@@ -66,10 +65,10 @@ Donde `argumento1` y `argumento2` pueden ser valores utilizados en las pruebas d
 
 ## Repositorio
 
-Este proyecto se encuentra alojado en **GitHub Classroom**. Puedes acceder al repositorio [aquí](<URL_DEL_REPOSITORIO>).
+Este proyecto se encuentra alojado en **GitHub Classroom**. Puedes acceder al repositorio [aquí](https://github.com/CI679/fundamentos-de-bash-script-Oscar27-22).
 
 ---
 
 ## Autor
 
-<Coloca aquí tu nombre y matrícula>
+Oscar Joaquin Marquez Ortega 367726
